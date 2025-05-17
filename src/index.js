@@ -16,4 +16,3 @@ const App = () => {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
-adiciona index.js com cotações
